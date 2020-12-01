@@ -1,4 +1,4 @@
-## Corona virus snitizer spary device
+## Coronavirus sanitizer spray device
 
 ### Requirement spare part:
 - ESP8266 module
